@@ -1,3 +1,9 @@
+/**
+ * 基于单链表LRU算法
+ *
+ * @author zoujp
+ * @create 2019-03-11
+ */
 public class SingLinkedListLRU {
 
     class Node{
